@@ -1,2 +1,4 @@
-# Online-Voting-System-using-Python
-As part of my 2nd year Advanced Programming Practice course, I had to create a project using Python to demonstrate its concepts, and I chose to create a simple Online Voting System using various Python libraries. In this repository I have also put the report and PPTs I prepared with my teammate.
+# Online Voting System for Elections
+ It is a desktop application made with socket programming in Python. It uses synchronous multithreading. 
+ 
+ For details on this project, please read the <a href="https://github.com/shah-deep/Online-Voting-System/blob/main/Report.pdf">Report</a>.

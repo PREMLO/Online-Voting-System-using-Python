@@ -1,4 +1,12 @@
-# Online Voting System for Elections
- It is a desktop application made with socket programming in Python. It uses synchronous multithreading. 
- 
- For details on this project, please read the <a href="https://github.com/shah-deep/Online-Voting-System/blob/main/Report.pdf">Report</a>.
+The Online Voting System is a Python-based application that allows users to cast their votes securely in an election. This system ensures transparency, security, and accessibility, making the voting process efficient and reliable.
+
+👥 Collaborators
+Anitej Mishra
+
+🛠️ Features
+User authentication (Admin & Voter)
+Secure voting mechanism
+Candidate registration
+Real-time vote counting
+Encrypted vote storage
+Admin dashboard for results
